@@ -1,4 +1,7 @@
-Reporte Se desglosan los servidores que rengan php info 
+Reporte Se desglosan los servidores que tengan php info 
 ======================================================
 ****************************
 10.1.130.26
+Servidor: 10.1.130.26
+no se encontro info.php p derivados
+ -----------------------------------------------------
