@@ -18,7 +18,7 @@ do
     -o StrictHostKeyChecking=no \
     -o ConnectTimeout=5 \
     $usuario@$ip \
-    "find /var/www/html/ -type f | grep -Ei 'info\.php|phpinfo'")
+    "find /var/www/html/ -type f 2>/dev/null | grep -Ei 'info\.php|phpinfo'")
 
     
 
